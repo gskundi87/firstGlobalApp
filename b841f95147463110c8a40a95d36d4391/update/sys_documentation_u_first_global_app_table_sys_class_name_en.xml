@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="First Global App Table" language="en" table="u_first_global_app_table">
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="u_first_global_app_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>sys_class_name</element>
             <help/>
             <hint/>
-            <label>First Global App Table</label>
+            <label>Class</label>
             <language>en</language>
             <name>u_first_global_app_table</name>
-            <plural>First Global App Tables</plural>
+            <plural>Class</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>gurpal.kundi</sys_created_by>
-            <sys_created_on>2023-10-21 23:49:23</sys_created_on>
+            <sys_created_on>2023-10-21 23:49:24</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>First Global App Table</sys_name>
+            <sys_name>Class</sys_name>
             <sys_package display_value="First Global App" source="b841f95147463110c8a40a95d36d4391">b841f95147463110c8a40a95d36d4391</sys_package>
             <sys_policy/>
             <sys_scope display_value="First Global App">b841f95147463110c8a40a95d36d4391</sys_scope>
-            <sys_update_name>sys_documentation_u_first_global_app_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_u_first_global_app_table_sys_class_name_en</sys_update_name>
             <sys_updated_by>gurpal.kundi</sys_updated_by>
-            <sys_updated_on>2023-10-21 23:49:23</sys_updated_on>
+            <sys_updated_on>2023-10-21 23:49:24</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
